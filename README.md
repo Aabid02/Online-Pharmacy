@@ -1,4 +1,4 @@
-TEAM N0 - 2  | MEMBERS - Aabid , Manish , Surbhi , Dhivya 
+TEAM N0 - 2   |     MEMBERS - Aabid , Manish , Surbhi , Dhivya 
 Project Name - Online Pharmacy
 
 This Project enables the user to buy medical products online by placing order through authorized prescription.
